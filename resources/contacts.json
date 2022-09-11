@@ -1,0 +1,58 @@
+[
+    {
+        "firstName": "Alissa",
+        "lastName": "Cenga",
+        "email": "acenga@epoka.edu.al",
+        "address": "Ndre Mjeda",
+        "phoneNr": "0698436261",
+        "message": "I really enjoy the page!"
+    },
+    {
+        "firstName": "Iris",
+        "lastName": "\u00c7enga",
+        "email": "iris.cenga@gmail.com",
+        "address": "Ndre Mjeda,20",
+        "phoneNr": "+355698436261",
+        "message": "I really like the concept!"
+    },
+    {
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "johndoe@gmail.com",
+        "address": "Sharonn",
+        "phoneNr": "+355 8787878",
+        "message": "I really like the concept!"
+    },
+    {
+        "firstName": "Jane Murphy",
+        "lastName": "Murphy",
+        "email": "janemurphy@gmail.com",
+        "address": "Babe Rexha",
+        "phoneNr": "0898898988",
+        "message": "Not a great website"
+    },
+    {
+        "firstName": "Franko",
+        "lastName": "James",
+        "email": "jamesfranco@gmail.com",
+        "address": "Random",
+        "phoneNr": "98435245",
+        "message": "I don't like this at all"
+    },
+    {
+        "firstName": "Michelle",
+        "lastName": "Choi",
+        "email": "michelle@gmail.com",
+        "address": "New York",
+        "phoneNr": "989989898",
+        "message": "Love this!!!"
+    },
+    {
+        "firstName": "Anisa",
+        "lastName": "Meta",
+        "email": "ameta",
+        "address": "shjw",
+        "phoneNr": "hjh",
+        "message": "like"
+    }
+]
